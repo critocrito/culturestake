@@ -358,6 +358,10 @@ const views = {
     notificationSuccess: 'You edited the artist {name}.',
     title: 'Edit artist',
   },
+  AdminVoteweightsNew: {
+    notificationSuccess: 'You created a new vote weight.',
+    title: 'Create new vote weight',
+  },
   Artworks: {
     buttonBackToFestival: 'Back to festival',
   },
